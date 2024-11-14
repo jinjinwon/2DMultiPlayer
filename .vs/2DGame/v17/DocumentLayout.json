@@ -1,0 +1,933 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Portfolio\\2DGame\\2DGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\etc\\tracecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\etc\\tracecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\minimap\\minimapmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minimap\\minimapmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\etc\\transformdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\etc\\transformdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\etc\\actionenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\etc\\actionenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\network\\interceptnetworkmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\interceptnetworkmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\weapon\\weaponstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\weaponstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\player\\playerinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\pathfinding\\pathfind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfinding\\pathfind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\ai\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\interactable\\interactable_jumpmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable\\interactable_jumpmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\etc\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\etc\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\network\\objectpoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\objectpoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\pathfinding\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfinding\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\ui\\weaponselectpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\weaponselectpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\ui\\deathui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\deathui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\ui\\buttonholdchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\buttonholdchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\network\\networkmanagerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\networkmanagerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|c:\\portfolio\\2dgame\\2dgame\\assets\\scripts\\etc\\scenetransitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\etc\\scenetransitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\game\\gamemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\etc\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\etc\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\network\\matchmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\matchmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.multiplayer.widgets\\Runtime\\Session\\Widgets\\LeaveSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.multiplayer.widgets\\Runtime\\Session\\Widgets\\LeaveSession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkUpdateLoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkUpdateLoop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\game\\victoryanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\victoryanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\interactable\\interactable_tracetarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable\\interactable_tracetarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\interactable\\interactable_fullarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable\\interactable_fullarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\Messages\\RpcMessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\Messages\\RpcMessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\NetworkMessageManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\NetworkMessageManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Spawning\\NetworkSpawnManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Spawning\\NetworkSpawnManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.transport\\Runtime\\DebugLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.transport\\Runtime\\DebugLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\Messages\\NetworkTransformMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\Messages\\NetworkTransformMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\interactable\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\network\\interceptnetworkobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\interceptnetworkobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Logging\\NetworkLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Logging\\NetworkLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.multiplayer.widgets\\Runtime\\Session\\Widgets\\SessionPlayerList\\SessionPlayerList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.multiplayer.widgets\\Runtime\\Session\\Widgets\\SessionPlayerList\\SessionPlayerList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\52specialeffectpack\\animation\u0026script\\csdestroyeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\52specialeffectpack\\animation\u0026script\\csdestroyeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE199AD-8ED1-FC9B-7D90-4ACF3C749467}|SimpleInput.Runtime.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\plugins\\simpleinput\\scripts\\simpleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE199AD-8ED1-FC9B-7D90-4ACF3C749467}|SimpleInput.Runtime.csproj|solutionrelative:assets\\plugins\\simpleinput\\scripts\\simpleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\weapon\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\ui\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\testcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\testcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\network\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\playeranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\weapon\\interceptplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\interceptplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\NetworkVariable\\NetworkVariableBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\NetworkVariable\\NetworkVariableBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\NetworkVariable\\NetworkVariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\NetworkVariable\\NetworkVariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.multiplayer.center.quickstart\\Runtime\\NetcodeForGameObjectsExample\\SetColorBasedOnOwnerId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.multiplayer.center.quickstart\\Runtime\\NetcodeForGameObjectsExample\\SetColorBasedOnOwnerId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.multiplayer.center.quickstart\\Runtime\\NetcodeForGameObjectsExample\\ClientAuthoritativeMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.multiplayer.center.quickstart\\Runtime\\NetcodeForGameObjectsExample\\ClientAuthoritativeMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\ui\\tippanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\tippanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|C:\\Portfolio\\2DGame\\2DGame\\assets\\scripts\\pathfinding\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A7B60-0E04-E1C4-071B-6792558F2011}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfinding\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 36,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Weapon\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\Projectile.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Weapon\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\Projectile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:57:36.033Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeaponStat.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Weapon\\WeaponStat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\WeaponStat.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Weapon\\WeaponStat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\WeaponStat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:55:41.32Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Interactable_JumpMachine.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Interactable\\Interactable_JumpMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable\\Interactable_JumpMachine.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Interactable\\Interactable_JumpMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactable\\Interactable_JumpMachine.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAADgv7YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:56:18.038Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AI.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\AI\\AI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\AI.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\AI\\AI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\AI.cs",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAowEYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:05:06.383Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerInteractable.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Player\\PlayerInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInteractable.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Player\\PlayerInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerInteractable.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:57:56.586Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ObjectPoolManager.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Network\\ObjectPoolManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\ObjectPoolManager.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Network\\ObjectPoolManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Network\\ObjectPoolManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T04:15:05.794Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeathUI.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\UI\\DeathUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DeathUI.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\UI\\DeathUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DeathUI.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAA2wCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:19:11.329Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAwDoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:08:37.939Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Player\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerStats.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Player\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerStats.cs",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAAAPsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:57:43.1Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeaponSelectPanel.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\UI\\WeaponSelectPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\WeaponSelectPanel.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\UI\\WeaponSelectPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\WeaponSelectPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:45:28.481Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Matchmaker.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Network\\Matchmaker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\Matchmaker.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Network\\Matchmaker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Network\\Matchmaker.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvw8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:04:37.139Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SceneTransitionManager.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\ETC\\SceneTransitionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ETC\\SceneTransitionManager.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\ETC\\SceneTransitionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ETC\\SceneTransitionManager.cs",
+              "ViewState": "AQIAAP8AAAAAAAAAAAAswA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:47:33.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LeaveSession.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.multiplayer.widgets\\Runtime\\Session\\Widgets\\LeaveSession.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.multiplayer.widgets\\Runtime\\Session\\Widgets\\LeaveSession.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.multiplayer.widgets\\Runtime\\Session\\Widgets\\LeaveSession.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.multiplayer.widgets\\Runtime\\Session\\Widgets\\LeaveSession.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:06:55.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Interactable_TraceTarget.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Interactable\\Interactable_TraceTarget.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable\\Interactable_TraceTarget.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Interactable\\Interactable_TraceTarget.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactable\\Interactable_TraceTarget.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAawJEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:20:01.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Interactable_FullArmor.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Interactable\\Interactable_FullArmor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable\\Interactable_FullArmor.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Interactable\\Interactable_FullArmor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactable\\Interactable_FullArmor.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAawLAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:19:53.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NetworkManager.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkManager.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkManager.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkManager.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkManager.cs",
+              "ViewState": "AQIAABIBAAAAAAAAAAAtwCsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:13:08.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NetworkMessageManager.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\NetworkMessageManager.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\NetworkMessageManager.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\NetworkMessageManager.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\NetworkMessageManager.cs",
+              "ViewState": "AQIAAC8CAAAAAAAAAAAtwEgCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:13:06.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAKkDAAAAAAAAAAAswLoDAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:06:32.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NetworkSpawnManager.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Spawning\\NetworkSpawnManager.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Spawning\\NetworkSpawnManager.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Spawning\\NetworkSpawnManager.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Spawning\\NetworkSpawnManager.cs",
+              "ViewState": "AQIAAOACAAAAAAAAAAAtwCADAADqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:18:22.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DebugLog.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.transport\\Runtime\\DebugLog.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.transport\\Runtime\\DebugLog.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.transport\\Runtime\\DebugLog.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.transport\\Runtime\\DebugLog.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwD8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:28:46.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RpcMessages.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\Messages\\RpcMessages.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\Messages\\RpcMessages.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\Messages\\RpcMessages.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\Messages\\RpcMessages.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAtwKcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:10:23.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NetworkLog.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Logging\\NetworkLog.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Logging\\NetworkLog.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Logging\\NetworkLog.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Logging\\NetworkLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvyEAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:58:31.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NetworkUpdateLoop.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkUpdateLoop.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkUpdateLoop.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkUpdateLoop.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkUpdateLoop.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAtwL4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:50:10.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "csDestroyEffect.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\52SpecialEffectPack\\Animation\u0026Script\\csDestroyEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\52SpecialEffectPack\\Animation\u0026Script\\csDestroyEffect.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\52SpecialEffectPack\\Animation\u0026Script\\csDestroyEffect.cs",
+              "RelativeToolTip": "Assets\\52SpecialEffectPack\\Animation\u0026Script\\csDestroyEffect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:51:27.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NetworkTransformMessage.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\Messages\\NetworkTransformMessage.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\Messages\\NetworkTransformMessage.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\Messages\\NetworkTransformMessage.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Messaging\\Messages\\NetworkTransformMessage.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAkwEgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:16:39.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NetworkObject.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkObject.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkObject.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkObject.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\Core\\NetworkObject.cs",
+              "ViewState": "AQIAAOIFAAAAAAAAAAAIwPsFAAAXAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:45:55.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SessionPlayerList.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.multiplayer.widgets\\Runtime\\Session\\Widgets\\SessionPlayerList\\SessionPlayerList.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.multiplayer.widgets\\Runtime\\Session\\Widgets\\SessionPlayerList\\SessionPlayerList.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.multiplayer.widgets\\Runtime\\Session\\Widgets\\SessionPlayerList\\SessionPlayerList.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.multiplayer.widgets\\Runtime\\Session\\Widgets\\SessionPlayerList\\SessionPlayerList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:10:05.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VictoryAnim.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Game\\VictoryAnim.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\VictoryAnim.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Game\\VictoryAnim.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\VictoryAnim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:32:13.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TestCode.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\TestCode.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TestCode.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\TestCode.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TestCode.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAewAQBAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:38:36.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterceptNetworkMessage.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Network\\InterceptNetworkMessage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\InterceptNetworkMessage.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Network\\InterceptNetworkMessage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Network\\InterceptNetworkMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:01:07.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransformData.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\ETC\\TransformData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ETC\\TransformData.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\ETC\\TransformData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ETC\\TransformData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswCkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:53:49.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ObjectPool.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\ETC\\ObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ETC\\ObjectPool.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\ETC\\ObjectPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ETC\\ObjectPool.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAAAqwBoBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:07:17.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "InterceptPlayer.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Weapon\\InterceptPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\InterceptPlayer.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Weapon\\InterceptPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\InterceptPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T03:47:09.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "InterceptNetworkObject.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Network\\InterceptNetworkObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\InterceptNetworkObject.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Network\\InterceptNetworkObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Network\\InterceptNetworkObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:29:57.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TraceCamera.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\ETC\\TraceCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ETC\\TraceCamera.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\ETC\\TraceCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ETC\\TraceCamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:09:39.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "NetworkVariableBase.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\NetworkVariable\\NetworkVariableBase.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\NetworkVariable\\NetworkVariableBase.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\NetworkVariable\\NetworkVariableBase.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\NetworkVariable\\NetworkVariableBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvy4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:03:04.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "NetworkVariable.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\NetworkVariable\\NetworkVariable.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\NetworkVariable\\NetworkVariable.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\NetworkVariable\\NetworkVariable.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.netcode.gameobjects\\Runtime\\NetworkVariable\\NetworkVariable.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAewHYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:03:27.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SetColorBasedOnOwnerId.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.multiplayer.center.quickstart\\Runtime\\NetcodeForGameObjectsExample\\SetColorBasedOnOwnerId.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.multiplayer.center.quickstart\\Runtime\\NetcodeForGameObjectsExample\\SetColorBasedOnOwnerId.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.multiplayer.center.quickstart\\Runtime\\NetcodeForGameObjectsExample\\SetColorBasedOnOwnerId.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.multiplayer.center.quickstart\\Runtime\\NetcodeForGameObjectsExample\\SetColorBasedOnOwnerId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:13:12.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ClientAuthoritativeMovement.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.multiplayer.center.quickstart\\Runtime\\NetcodeForGameObjectsExample\\ClientAuthoritativeMovement.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.multiplayer.center.quickstart\\Runtime\\NetcodeForGameObjectsExample\\ClientAuthoritativeMovement.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Library\\PackageCache\\com.unity.multiplayer.center.quickstart\\Runtime\\NetcodeForGameObjectsExample\\ClientAuthoritativeMovement.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.multiplayer.center.quickstart\\Runtime\\NetcodeForGameObjectsExample\\ClientAuthoritativeMovement.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:13:02.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SimpleInput.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Plugins\\SimpleInput\\Scripts\\SimpleInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\SimpleInput\\Scripts\\SimpleInput.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Plugins\\SimpleInput\\Scripts\\SimpleInput.cs",
+              "RelativeToolTip": "Assets\\Plugins\\SimpleInput\\Scripts\\SimpleInput.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAwNUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:58:37.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PlayerAnimator.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Network\\PlayerAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\PlayerAnimator.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Network\\PlayerAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Network\\PlayerAnimator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:16:48.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NetworkManagerUI.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Network\\NetworkManagerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\NetworkManagerUI.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Network\\NetworkManagerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Network\\NetworkManagerUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:50:30.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TipPanel.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\UI\\TipPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TipPanel.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\UI\\TipPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\TipPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:34:33.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ButtonHoldChecker.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\UI\\ButtonHoldChecker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ButtonHoldChecker.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\UI\\ButtonHoldChecker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ButtonHoldChecker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:52:00.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "InteractableObject.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Interactable\\InteractableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable\\InteractableObject.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Interactable\\InteractableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactable\\InteractableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:51:38.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActionEnums.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\ETC\\ActionEnums.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ETC\\ActionEnums.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\ETC\\ActionEnums.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ETC\\ActionEnums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:14:51.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\PathFinding\\Node.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PathFinding\\Node.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\PathFinding\\Node.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PathFinding\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:48:01.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pathfind.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\PathFinding\\Pathfind.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PathFinding\\Pathfind.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\PathFinding\\Pathfind.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PathFinding\\Pathfind.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:48:30.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GridManager.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\PathFinding\\GridManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PathFinding\\GridManager.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\PathFinding\\GridManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PathFinding\\GridManager.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAuwDoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:11:37.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SettingPanel.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\UI\\SettingPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SettingPanel.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\UI\\SettingPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SettingPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:56:01.953Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "98f83810-c74c-4858-ab24-84be51e12179",
+        "Display": 1,
+        "X": 408,
+        "Y": 91,
+        "Width": 1344,
+        "Height": 868,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\ETC\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ETC\\SoundManager.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\ETC\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ETC\\SoundManager.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAWwB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:54:04.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GameManage.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Game\\GameManage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\GameManage.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Game\\GameManage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\GameManage.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:49:02.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinimapMarker.cs",
+              "DocumentMoniker": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Minimap\\MinimapMarker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Minimap\\MinimapMarker.cs",
+              "ToolTip": "C:\\Portfolio\\2DGame\\2DGame\\Assets\\Scripts\\Minimap\\MinimapMarker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Minimap\\MinimapMarker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:05:20.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
